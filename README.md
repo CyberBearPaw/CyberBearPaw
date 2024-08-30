@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**CyberBearPaw/CyberBearPaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here’s a bit about what I’m working on and interested in:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - Developing and refining personal projects related to application development and system security.
+  - Building a portfolio of coding and IT-related projects to showcase my skills and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+  - Advanced Python programming, focusing on frameworks like Django and Flask.
+  - Application security practices to better protect and secure software systems.
+
+- 👯 I’m looking to collaborate on:
+  - Open-source projects related to cybersecurity or software development.
+  - Projects that involve innovative solutions for system optimization and security challenges.
+
+- 🤔 I’m looking for help with:
+  - Enhancing my knowledge of secure coding practices and vulnerability assessment.
+  - Understanding complex algorithms and their implementation in real-world applications.
+
+- 💬 Ask me about:
+  - My experience with IT infrastructure and system administration.
+
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/ironcrownbear/)
+
+- 😄 Pronouns: He/Him
