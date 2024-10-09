@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Arryn Kayns (CyberBearPaw)!
+Passionate about blending system security with automation, I specialize in DevOps, IT infrastructure, and application development. My journey focuses on leveraging secure coding practices and solving critical challenges in system infratructure.
+
 
 Welcome to my GitHub profile! Here’s a bit about what I’m working on and interested in:
 
